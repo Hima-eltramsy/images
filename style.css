@@ -1,0 +1,4 @@
+body{
+    text-transform: capitalize;
+    background: linear-gradient(to right,red,blue,#fff);
+}
